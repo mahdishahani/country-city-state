@@ -10,7 +10,7 @@
     "country_name": "Iran",
     "latitude": 36.63333,
     "longitude": 51.15,
-    "native": "عباس آباد",
+    "native": "عباس‌آباد",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q1277854"
   },
@@ -25,7 +25,7 @@
     "country_name": "Iran",
     "latitude": 36.0655004,
     "longitude": 52.8325009,
-    "native": "الشت",
+    "native": "آلاشت",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q336079"
   },
@@ -40,7 +40,7 @@
     "country_name": "Iran",
     "latitude": 36.598663,
     "longitude": 52.6563119,
-    "native": "امیر کلا",
+    "native": "امیرکلا",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2633407"
   },
@@ -55,7 +55,7 @@
     "country_name": "Iran",
     "latitude": 36.46961,
     "longitude": 52.35072,
-    "native": "امول",
+    "native": "آمل",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q331078"
   },
@@ -70,7 +70,7 @@
     "country_name": "Iran",
     "latitude": 36.4948606,
     "longitude": 52.9262064,
-    "native": "عیاش",
+    "native": "آرطاه",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q5721413"
   },
@@ -85,7 +85,7 @@
     "country_name": "Iran",
     "latitude": 36.55132,
     "longitude": 52.67895,
-    "native": "بچه",
+    "native": "بابل",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q605157"
   },
@@ -100,7 +100,7 @@
     "country_name": "Iran",
     "latitude": 36.70251,
     "longitude": 52.6576,
-    "native": "حباب",
+    "native": "بابلسر",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q643187"
   },
@@ -115,7 +115,7 @@
     "country_name": "Iran",
     "latitude": 36.6719444,
     "longitude": 52.7432583,
-    "native": "بهنامیر",
+    "native": "بهنمیر",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2633273"
   },
@@ -130,7 +130,7 @@
     "country_name": "Iran",
     "latitude": 36.1989228,
     "longitude": 51.7976563,
-    "native": "بالده",
+    "native": "بالاده",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q4849773"
   },
@@ -145,7 +145,7 @@
     "country_name": "Iran",
     "latitude": 36.69235,
     "longitude": 53.55262,
-    "native": "بهههر",
+    "native": "بهشهر",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q814594"
   },
@@ -160,7 +160,7 @@
     "country_name": "Iran",
     "latitude": 36.655,
     "longitude": 51.4204,
-    "native": "چلیکس",
+    "native": "چالوس",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q862547"
   },
@@ -190,7 +190,7 @@
     "country_name": "Iran",
     "latitude": 36.484444,
     "longitude": 52.451667,
-    "native": "دبودشت",
+    "native": "دابودشت",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2737766"
   },
@@ -205,7 +205,7 @@
     "country_name": "Iran",
     "latitude": 36.4088625,
     "longitude": 52.3006725,
-    "native": "امامزاد عبدالله",
+    "native": "امامزاده عبدالله",
     "timezone": "Asia/Tehran",
     "wikiDataId": null
   },
@@ -220,7 +220,7 @@
     "country_name": "Iran",
     "latitude": 36.623611,
     "longitude": 52.541944,
-    "native": "فیم",
+    "native": "فریم",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q1022984"
   },
@@ -235,7 +235,7 @@
     "country_name": "Iran",
     "latitude": 36.68642,
     "longitude": 52.52255,
-    "native": "فریندونکار",
+    "native": "فریدونکنار",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2714615"
   },
@@ -250,7 +250,7 @@
     "country_name": "Iran",
     "latitude": 36.71667,
     "longitude": 53.86667,
-    "native": "گالگا",
+    "native": "گلوگاه",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q721034"
   },
@@ -265,7 +265,7 @@
     "country_name": "Iran",
     "latitude": 36.4298971,
     "longitude": 52.6478576,
-    "native": "گاتاب",
+    "native": "گتاب",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q4370752"
   },
@@ -310,7 +310,7 @@
     "country_name": "Iran",
     "latitude": 36.5944494,
     "longitude": 52.1198802,
-    "native": "ایزادشهر",
+    "native": "ایزدشهر",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q4122247"
   },
@@ -325,7 +325,7 @@
     "country_name": "Iran",
     "latitude": 36.64115,
     "longitude": 52.91244,
-    "native": "جار",
+    "native": "جویبار",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q945447"
   },
@@ -340,7 +340,7 @@
     "country_name": "Iran",
     "latitude": 36.45,
     "longitude": 51.11667,
-    "native": "کالار داش",
+    "native": "کلاردشت",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q498106"
   },
@@ -355,7 +355,7 @@
     "country_name": "Iran",
     "latitude": 36.6419927,
     "longitude": 52.6104675,
-    "native": "کله باست",
+    "native": "کله‌بست",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2633279"
   },
@@ -370,7 +370,7 @@
     "country_name": "Iran",
     "latitude": 36.6874145,
     "longitude": 51.2306071,
-    "native": "کلهرباد",
+    "native": "کلارآباد",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2633334"
   },
@@ -385,7 +385,7 @@
     "country_name": "Iran",
     "latitude": 36.4931401,
     "longitude": 51.1189766,
-    "native": "سقف",
+    "native": "کلاردشت",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q1738431"
   },
@@ -400,7 +400,7 @@
     "country_name": "Iran",
     "latitude": 36.8765618,
     "longitude": 50.7073973,
-    "native": "کتالم و سادات شهر",
+    "native": "کتالم و ساداتشهر",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q4811309"
   },
@@ -415,7 +415,7 @@
     "country_name": "Iran",
     "latitude": 36.6989184,
     "longitude": 53.6232374,
-    "native": "خلیل شاه",
+    "native": "خلیل‌شهر",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2633285"
   },
@@ -430,7 +430,7 @@
     "country_name": "Iran",
     "latitude": 36.7818258,
     "longitude": 50.8604549,
-    "native": "خرمه",
+    "native": "خرم‌آباد",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q502212"
   },
@@ -445,7 +445,7 @@
     "country_name": "Iran",
     "latitude": 36.3720049,
     "longitude": 52.5574993,
-    "native": "خسروود پی",
+    "native": "خوش‌رودپی",
     "timezone": "Asia/Tehran",
     "wikiDataId": null
   },
@@ -460,7 +460,7 @@
     "country_name": "Iran",
     "latitude": 36.5833786,
     "longitude": 52.7989625,
-    "native": "کیا کولا",
+    "native": "کیاکلا",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2633218"
   },
@@ -475,7 +475,7 @@
     "country_name": "Iran",
     "latitude": 36.2401662,
     "longitude": 53.5325006,
-    "native": "کیاسار",
+    "native": "کیاسر",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2633364"
   },
@@ -490,7 +490,7 @@
     "country_name": "Iran",
     "latitude": 36.3822637,
     "longitude": 51.7239828,
-    "native": "حباب",
+    "native": "کجور",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q16893556"
   },
@@ -505,7 +505,7 @@
     "country_name": "Iran",
     "latitude": 36.6887766,
     "longitude": 52.8984619,
-    "native": "کوهی خیل",
+    "native": "کوهی‌خیل",
     "timezone": "Asia/Tehran",
     "wikiDataId": null
   },
@@ -520,7 +520,7 @@
     "country_name": "Iran",
     "latitude": 36.6,
     "longitude": 52.36667,
-    "native": "ماهمودآباد",
+    "native": "محمودآباد",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q1264551"
   },
@@ -535,7 +535,7 @@
     "country_name": "Iran",
     "latitude": 36.4528379,
     "longitude": 51.2850702,
-    "native": "مارزا آباد",
+    "native": "مرزن‌آباد",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2633401"
   },
@@ -550,7 +550,7 @@
     "country_name": "Iran",
     "latitude": 36.3600227,
     "longitude": 52.7300406,
-    "native": "مارسیکولا",
+    "native": "مرزیکلا",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q4364505"
   },
@@ -565,7 +565,7 @@
     "country_name": "Iran",
     "latitude": 36.58333,
     "longitude": 53.3,
-    "native": "ميزان",
+    "native": "میاندورود",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q1264551"
   },
@@ -580,7 +580,7 @@
     "country_name": "Iran",
     "latitude": 36.7509,
     "longitude": 51.02362,
-    "native": "نیشتراود",
+    "native": "نشتارود",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2633372"
   },
@@ -595,7 +595,7 @@
     "country_name": "Iran",
     "latitude": 36.65079,
     "longitude": 53.29905,
-    "native": "برخی",
+    "native": "نکا",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q531943"
   },
@@ -625,7 +625,7 @@
     "country_name": "Iran",
     "latitude": 36.31667,
     "longitude": 51.98333,
-    "native": "تنها",
+    "native": "نور",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q5099954"
   },
@@ -640,7 +640,7 @@
     "country_name": "Iran",
     "latitude": 36.4289262,
     "longitude": 53.1310815,
-    "native": "عکسبرداری",
+    "native": "پایین هولار",
     "timezone": "Asia/Tehran",
     "wikiDataId": null
   },
@@ -670,7 +670,7 @@
     "country_name": "Iran",
     "latitude": 36.3980031,
     "longitude": 51.5793513,
-    "native": "پال",
+    "native": "پل",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q16736939"
   },
@@ -685,7 +685,7 @@
     "country_name": "Iran",
     "latitude": 36.48333,
     "longitude": 52.9,
-    "native": "قم شاه",
+    "native": "قائم‌شهر",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q720937"
   },
@@ -715,7 +715,7 @@
     "country_name": "Iran",
     "latitude": 35.8814957,
     "longitude": 52.1600661,
-    "native": "اوقات فراغت",
+    "native": "رینه",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2726700"
   },
@@ -730,7 +730,7 @@
     "country_name": "Iran",
     "latitude": 36.6800976,
     "longitude": 53.3981893,
-    "native": "من روستا کولا",
+    "native": "رستم‌کلا",
     "timezone": "Asia/Tehran",
     "wikiDataId": null
   },
@@ -760,7 +760,7 @@
     "country_name": "Iran",
     "latitude": 36.7006475,
     "longitude": 51.1907529,
-    "native": "سلمان شاه",
+    "native": "سلمان‌شهر",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2633224"
   },
@@ -790,7 +790,7 @@
     "country_name": "Iran",
     "latitude": 35.97765,
     "longitude": 52.68246,
-    "native": "ساوادکوه",
+    "native": "سوادکوه",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q1282207"
   },
@@ -805,7 +805,7 @@
     "country_name": "Iran",
     "latitude": 36.2974985,
     "longitude": 52.8656994,
-    "native": "شیطان",
+    "native": "شیرگاه",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2007469"
   },
@@ -820,7 +820,7 @@
     "country_name": "Iran",
     "latitude": 36.850888,
     "longitude": 50.8032394,
-    "native": "شیرو",
+    "native": "شیروود",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q7498993"
   },
@@ -835,7 +835,7 @@
     "country_name": "Iran",
     "latitude": 36.57914,
     "longitude": 52.82364,
-    "native": "شهرستان سیمورگ",
+    "native": "شهرستان سیمرغ",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q643386"
   },
@@ -850,7 +850,7 @@
     "country_name": "Iran",
     "latitude": 36.6691581,
     "longitude": 52.4425288,
-    "native": "سورک",
+    "native": "سرخ‌رود",
     "timezone": "Asia/Tehran",
     "wikiDataId": null
   },
@@ -865,7 +865,7 @@
     "country_name": "Iran",
     "latitude": 36.5968721,
     "longitude": 53.2016803,
-    "native": "تشویق کردن",
+    "native": "سورک",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2264987"
   },
@@ -880,7 +880,7 @@
     "country_name": "Iran",
     "latitude": 36.81626,
     "longitude": 50.87376,
-    "native": "تونکابون",
+    "native": "تنکابن",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q765561"
   },
@@ -895,7 +895,7 @@
     "country_name": "Iran",
     "latitude": 36.521389,
     "longitude": 52.575556,
-    "native": "جنجال",
+    "native": "زرگرمحله",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q6672406"
   },
@@ -910,7 +910,7 @@
     "country_name": "Iran",
     "latitude": 36.1805586,
     "longitude": 52.9535865,
-    "native": "زیراب",
+    "native": "زیرآب",
     "timezone": "Asia/Tehran",
     "wikiDataId": "Q2007480"
   }
